@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        Hello from APP
+        Hello from APP!
         <TodoInput/>
         <TodoList/>
       </div>
